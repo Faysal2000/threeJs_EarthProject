@@ -22,6 +22,9 @@ Başlangıçta kaç kurabiye olduğunu hesaplar:
 2. Soru:
 Kutulara yerleştirilen kurabiyeleri toplar ve sonucu gösterir:
 
+---------------------------------------------------------------
+#KULLANIM:
+* overlyApp uygulamasi 
 
 
 
