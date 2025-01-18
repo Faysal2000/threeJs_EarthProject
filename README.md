@@ -30,7 +30,9 @@ Kutulara yerleştirilen kurabiyeleri toplar ve sonucu gösterir:
 #DEMO:
 youtube video: https://youtube.com/shorts/v-I9bUHSAa0?feature=share
 
-
+------------------------------------------------------
+https://github.com/user-attachments/assets/7a6a5eca-398e-4379-991b-1c09253ad1d8
+------------------------------------------------------
 
 ![Image](https://github.com/user-attachments/assets/0b75ab00-901a-4db0-812c-59dc153351a3)
 
