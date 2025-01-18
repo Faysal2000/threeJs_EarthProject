@@ -15,6 +15,17 @@
 Bu proje, artırılmış gerçeklik teknolojisini kullanarak bir "Kurabiye Saymaca" oyununu interaktif hale getirir. Kullanıcı, mobil cihazıyla Kurabiye Saymaca kartını tarar ve oyun sorularını çözmek için artırılmış gerçeklik desteğinden yararlanır.
 
 
+🎥 Demo
+1. Soru:
+Başlangıçta kaç kurabiye olduğunu hesaplar:
+
+2. Soru:
+Kutulara yerleştirilen kurabiyeleri toplar ve sonucu gösterir:
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/0b75ab00-901a-4db0-812c-59dc153351a3)
 
 
