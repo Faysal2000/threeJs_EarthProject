@@ -1,6 +1,6 @@
 # 📱 AR Apps
 
-Bu proje, artırılmış gerçeklik kullanarak bir görsel üzerindeki üçgenleri otomatik olarak sayar. Mobil cihazlarda OverlyApp ile çalışmak üzere geliştirilmiştir.
+1) Bu proje, artırılmış gerçeklik kullanarak bir görsel üzerindeki üçgenleri otomatik olarak sayar. Mobil cihazlarda OverlyApp ile çalışmak üzere geliştirilmiştir.
 
 
 ## 🚀 Özellikler
