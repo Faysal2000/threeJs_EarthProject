@@ -26,6 +26,9 @@ Kutulara yerleştirilen kurabiyeleri toplar ve sonucu gösterir:
 #KULLANIM:
 * overlyApp uygulamasi 
 
+--------------------------------------------------------------
+#DEMO:
+youtube video: https://youtube.com/shorts/v-I9bUHSAa0?feature=share
 
 
 
