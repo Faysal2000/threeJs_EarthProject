@@ -3,6 +3,13 @@
 Bu proje, artırılmış gerçeklik kullanarak bir görsel üzerindeki üçgenleri otomatik olarak sayar. Mobil cihazlarda OverlyApp ile çalışmak üzere geliştirilmiştir.
 
 
+## 🚀 Özellikler
+- 📷 AR teknolojisi ile üçgenleri algılar ve sayar.
+- 🧮 Otomatik olarak üçgenlerin toplam sayısını hesaplar.
+- 📱 Mobil cihazlarda OverlyApp ile entegre çalışır.
+- ⚡ Hızlı ve kullanıcı dostu.
+
+
 
 ![Image](https://github.com/user-attachments/assets/0b75ab00-901a-4db0-812c-59dc153351a3)
 
